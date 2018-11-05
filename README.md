@@ -6,5 +6,5 @@
 </center>
 
 <center>
- <img src="/images/line.png" margin=20% width=50% />
+ <img src="/images/line.png" />
 </center>
